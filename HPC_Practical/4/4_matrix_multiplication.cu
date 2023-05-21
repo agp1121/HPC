@@ -1,3 +1,5 @@
+//!pip install git+https://github.com/afnan47/cuda.git
+//%load_ext nvcc_plugin
 // %%cu
 // Uncomment the above line when using this on collab
 #include <iostream>
